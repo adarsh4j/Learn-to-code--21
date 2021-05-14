@@ -21,6 +21,6 @@ int main() {
     printf("%d \n",a);
     printf("%f \n",b);
     printf("%1f \n",d);
-
+    return 0;
 }
 
