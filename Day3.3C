@@ -15,5 +15,5 @@ int main()
     printf("%d \n",x-y);
     printf("%d \n",x*y);
     printf("%.2f \n",x/(float)y);
-
+    return 0;
 }
