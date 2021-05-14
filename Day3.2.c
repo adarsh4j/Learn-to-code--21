@@ -9,5 +9,5 @@ int main()
       scanf("%f",&f);
       
       printf("%.2f \n",(f-32)*5/9);
-
+      return 0;
 }
