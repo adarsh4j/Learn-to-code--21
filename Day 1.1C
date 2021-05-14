@@ -3,5 +3,5 @@
 int main(){
 
     printf("Hello World!\nWelcome to Learn To Code!");
-    
+    return 0;
 }
