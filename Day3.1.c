@@ -15,6 +15,6 @@ int main()
     printf("%d \n",a*a);
     printf("%.1f \n",3.14*b*b);
     printf("%.2f \n",0.5*c*d);
-    
+    return 0;
 
 }
