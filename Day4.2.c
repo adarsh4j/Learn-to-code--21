@@ -18,6 +18,6 @@ int main() {
     printf("%d \n",b);
     else
     printf("%d \n",c);
-    
+    return 0;
  }
     
